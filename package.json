@@ -1,0 +1,19 @@
+{
+  "name": "void",
+  "version": "0.0.1",
+  "description": "A purely front end code playground - Think Codepen without a backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hansolo669/void.git"
+  },
+  "author": "cal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hansolo669/void/issues"
+  },
+  "homepage": "https://github.com/hansolo669/void#readme"
+}
